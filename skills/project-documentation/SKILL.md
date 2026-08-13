@@ -9,9 +9,9 @@ Design documents and implementation plans live in fixed directories under `docs/
 Check here before creating a document; putting one in the wrong place is much cheaper to avoid than to correct
 once it is linked from elsewhere.
 
-| Directory              | Holds                                                          |
-|------------------------|----------------------------------------------------------------|
-| `docs/design/`         | Design documents and specs — what is being built and why       |
+| Directory              | Holds                                                            |
+|------------------------|------------------------------------------------------------------|
+| `docs/design/`         | Design documents and specs — what is being built and why         |
 | `docs/implementation/` | Implementation plans — the ordered task breakdown that builds it |
 
 Other files may sit at the `docs/` root (a project's `idea.md`, for example). Only design documents and
